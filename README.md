@@ -15,3 +15,4 @@
 * **1108**	&nbsp; &nbsp;  Defanging an IP Address  
 * **1431**	&nbsp; &nbsp;  Kids With the Greatest Number of Candies  
 * **1365**  &nbsp; &nbsp;  How Many Numbers Are Smaller Than the Current Number
+* **1281**  &nbsp; &nbsp;  Subtract the Product and Sum of Digits of an Integer

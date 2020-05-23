@@ -9,7 +9,8 @@
 * **665**	  &nbsp; &nbsp; &nbsp; Non-decreasing Array  
 * **709**	  &nbsp; &nbsp; &nbsp; To Lower Case   		  		 		
 * **771**	  &nbsp; &nbsp; &nbsp; Jewels and Stones    			  			
-* **1108**	&nbsp; &nbsp;  Defanging an IP Address  
+* **1108**	&nbsp; &nbsp;  Defanging an IP Address 
+* **1266**  &nbsp; &nbsp;  Minimum Time Visiting All Points 
 * **1281**  &nbsp; &nbsp;  Subtract the Product and Sum of Digits of an Integer
 * **1295**	&nbsp; &nbsp;  Find Numbers with Even Number of Digits    		
 * **1304**	&nbsp; &nbsp;  Find N Unique Integers Sum up to Zero  

@@ -10,7 +10,7 @@
 * **709**	  &nbsp; &nbsp; &nbsp; To Lower Case   		  		 		
 * **771**	  &nbsp; &nbsp; &nbsp; Jewels and Stones    			  			
 * **1108**	&nbsp; &nbsp;  Defanging an IP Address  
-* **1281**    Subtract the Product and Sum of Digits of an Integer
+* **1281**  &nbsp; &nbsp;  Subtract the Product and Sum of Digits of an Integer
 * **1295**	&nbsp; &nbsp;  Find Numbers with Even Number of Digits    		
 * **1304**	&nbsp; &nbsp;  Find N Unique Integers Sum up to Zero  
 * **1342**	&nbsp; &nbsp;  Number of Steps to Reduce a Number to Zero  	

@@ -4,7 +4,7 @@
 
 * **26**	  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Remove Duplicates from Sorted Array
 * **104**	  &nbsp; &nbsp; &nbsp; &nbsp; Maximum Depth of Binary Tree
-* **121**	  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Best Time to Buy and Sell Stock
+* **121**	  &nbsp; &nbsp; &nbsp; &nbsp; Best Time to Buy and Sell Stock
 * **136**   &nbsp; &nbsp; &nbsp; &nbsp; Single Number   
 * **206**	  &nbsp; &nbsp; &nbsp; &nbsp; Reverse Linked List
 * **258**	  &nbsp; &nbsp; &nbsp; &nbsp; Add Digits 	
@@ -22,4 +22,4 @@
 * **1342**	&nbsp; &nbsp;   &nbsp; Number of Steps to Reduce a Number to Zero  	
 * **1365**  &nbsp; &nbsp;   &nbsp; How Many Numbers Are Smaller Than the Current Number
 * **1389**  &nbsp; &nbsp;   &nbsp; Create Target Array in the Given Order
-* **1431**	&nbsp; &nbsp;   &nbsp; &nbsp; Kids With the Greatest Number of Candies  
+* **1431**	&nbsp; &nbsp;   &nbsp; &nbsp;Kids With the Greatest Number of Candies  

@@ -2,6 +2,7 @@
 
 ## Solutions are in JS.
 
+* **26**	  &nbsp; &nbsp; &nbsp; Remove Duplicates from Sorted Array
 * **104**	  &nbsp; &nbsp; &nbsp; Maximum Depth of Binary Tree
 * **121**	  &nbsp; &nbsp; &nbsp; Best Time to Buy and Sell Stock
 * **136**   &nbsp; &nbsp; &nbsp; Single Number   

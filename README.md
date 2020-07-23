@@ -4,8 +4,8 @@
 
 * **26**	  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Remove Duplicates from Sorted Array
 * **104**	  &nbsp; &nbsp; &nbsp; &nbsp; Maximum Depth of Binary Tree
-* **121**	  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Best Time to Buy and Sell Stock
-* **122**	  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Best Time to Buy and Sell Stock II
+* **121**	  &nbsp; &nbsp; &nbsp; &nbsp; Best Time to Buy and Sell Stock
+* **122**	  &nbsp; &nbsp; &nbsp; &nbsp; Best Time to Buy and Sell Stock II
 * **136**   &nbsp; &nbsp; &nbsp; &nbsp; Single Number   
 * **189**   &nbsp; &nbsp; &nbsp; &nbsp; Rotate Array
 * **206**	  &nbsp; &nbsp; &nbsp; &nbsp; Reverse Linked List

@@ -7,6 +7,7 @@
 * **121**	  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Best Time to Buy and Sell Stock
 * **122**	  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Best Time to Buy and Sell Stock II
 * **136**   &nbsp; &nbsp; &nbsp; &nbsp; Single Number   
+* **189**   &nbsp; &nbsp; &nbsp; &nbsp; Rotate Array
 * **206**	  &nbsp; &nbsp; &nbsp; &nbsp; Reverse Linked List
 * **258**	  &nbsp; &nbsp; &nbsp; &nbsp; Add Digits 	
 * **283**	  &nbsp; &nbsp; &nbsp; &nbsp; Move Zeroes

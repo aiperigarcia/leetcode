@@ -9,6 +9,7 @@
 * **136**   &nbsp; &nbsp; &nbsp; &nbsp; Single Number   
 * **189**   &nbsp; &nbsp; &nbsp; &nbsp; Rotate Array
 * **206**	  &nbsp; &nbsp; &nbsp; &nbsp; Reverse Linked List
+* **217**	  &nbsp; &nbsp; &nbsp; &nbsp; Contains Duplicate
 * **258**	  &nbsp; &nbsp; &nbsp; &nbsp; Add Digits 	
 * **283**	  &nbsp; &nbsp; &nbsp; &nbsp; Move Zeroes
 * **326**	  &nbsp; &nbsp; &nbsp; &nbsp; Power of Three 	

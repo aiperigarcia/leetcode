@@ -2,7 +2,8 @@
 
 ## Solutions are in JS.
 
-* **7**	    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Reverse Integer
+* **1**	    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;Two Sum
+* **7**	    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Reverse Integer
 * **26**	  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Remove Duplicates from Sorted Array
 * **104**	  &nbsp; &nbsp; &nbsp; &nbsp; Maximum Depth of Binary Tree
 * **121**	  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Best Time to Buy and Sell Stock

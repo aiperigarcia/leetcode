@@ -22,6 +22,7 @@
 * **709**	  &nbsp; &nbsp; &nbsp; &nbsp; To Lower Case   		  		 		
 * **771**	  &nbsp; &nbsp; &nbsp; &nbsp; Jewels and Stones    			  			
 * **1108**	&nbsp; &nbsp;   &nbsp; Defanging an IP Address
+* **1221**  &nbsp; &nbsp;   &nbsp; Split a String in Balanced Strings
 * **1266**  &nbsp; &nbsp;   &nbsp; Minimum Time Visiting All Points
 * **1281**  &nbsp; &nbsp;   &nbsp; Subtract the Product and Sum of Digits of an Integer
 * **1295**	&nbsp; &nbsp;   &nbsp; Find Numbers with Even Number of Digits    		

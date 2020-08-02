@@ -33,4 +33,5 @@
 * **1389**  &nbsp; &nbsp;   &nbsp; Create Target Array in the Given Order
 * **1431**	&nbsp; &nbsp;   &nbsp; &nbsp;Kids With the Greatest Number of Candies  
 * **1464**	&nbsp; &nbsp;   &nbsp; &nbsp;Maximum Product of Two Elements in an Array
+* **1470**	&nbsp; &nbsp;   &nbsp; &nbsp;Shuffle the Array
 * **1480**	&nbsp; &nbsp;   &nbsp; &nbsp;Running Sum of 1d Array

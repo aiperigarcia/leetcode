@@ -35,3 +35,4 @@
 * **1464**	&nbsp; &nbsp;   &nbsp; &nbsp;Maximum Product of Two Elements in an Array
 * **1470**	&nbsp; &nbsp;   &nbsp; &nbsp;Shuffle the Array
 * **1480**	&nbsp; &nbsp;   &nbsp; &nbsp;Running Sum of 1d Array
+* **1512**	&nbsp; &nbsp;   &nbsp; &nbsp;Number of Good Pairs

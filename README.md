@@ -27,6 +27,7 @@
 * **1281**  &nbsp; &nbsp;   &nbsp; Subtract the Product and Sum of Digits of an Integer
 * **1295**	&nbsp; &nbsp;   &nbsp; Find Numbers with Even Number of Digits    		
 * **1304**	&nbsp; &nbsp;   &nbsp; Find N Unique Integers Sum up to Zero  
+* **1313**	&nbsp; &nbsp;   &nbsp; Decompress Run-Length Encoded List
 * **1323**	&nbsp; &nbsp;   &nbsp; Maximum 69 Number
 * **1342**	&nbsp; &nbsp;   &nbsp; Number of Steps to Reduce a Number to Zero  	
 * **1365**  &nbsp; &nbsp;   &nbsp; How Many Numbers Are Smaller Than the Current Number

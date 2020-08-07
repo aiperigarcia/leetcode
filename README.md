@@ -26,6 +26,7 @@
 * **1221**  &nbsp; &nbsp;   &nbsp; Split a String in Balanced Strings
 * **1266**  &nbsp; &nbsp;   &nbsp; Minimum Time Visiting All Points
 * **1281**  &nbsp; &nbsp;   &nbsp; Subtract the Product and Sum of Digits of an Integer
+* **1290**	&nbsp; &nbsp;   &nbsp; Convert Binary Number in a Linked List to Integer
 * **1295**	&nbsp; &nbsp;   &nbsp; Find Numbers with Even Number of Digits    		
 * **1304**	&nbsp; &nbsp;   &nbsp; Find N Unique Integers Sum up to Zero  
 * **1313**	&nbsp; &nbsp;   &nbsp; Decompress Run-Length Encoded List

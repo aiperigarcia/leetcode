@@ -29,6 +29,7 @@
 * **1290**	&nbsp; &nbsp;   &nbsp; Convert Binary Number in a Linked List to Integer
 * **1295**	&nbsp; &nbsp;   &nbsp; Find Numbers with Even Number of Digits    		
 * **1304**	&nbsp; &nbsp;   &nbsp; Find N Unique Integers Sum up to Zero  
+* **1309**	&nbsp; &nbsp;   &nbsp; Decrypt String from Alphabet to Integer Mapping 
 * **1313**	&nbsp; &nbsp;   &nbsp; Decompress Run-Length Encoded List
 * **1323**	&nbsp; &nbsp;   &nbsp; Maximum 69 Number
 * **1342**	&nbsp; &nbsp;   &nbsp; Number of Steps to Reduce a Number to Zero  	

@@ -29,13 +29,14 @@
 * **1290**	&nbsp; &nbsp;   &nbsp; Convert Binary Number in a Linked List to Integer
 * **1295**	&nbsp; &nbsp;   &nbsp; Find Numbers with Even Number of Digits    		
 * **1304**	&nbsp; &nbsp;   &nbsp; Find N Unique Integers Sum up to Zero  
-* **1309**	&nbsp; &nbsp;   &nbsp; Decrypt String from Alphabet to Integer Mapping 
+* **1309**	&nbsp; &nbsp;   &nbsp; Decrypt String from Alphabet to Integer Mapping
 * **1313**	&nbsp; &nbsp;   &nbsp; Decompress Run-Length Encoded List
 * **1323**	&nbsp; &nbsp;   &nbsp; Maximum 69 Number
 * **1342**	&nbsp; &nbsp;   &nbsp; Number of Steps to Reduce a Number to Zero  	
 * **1365**  &nbsp; &nbsp;   &nbsp; How Many Numbers Are Smaller Than the Current Number
 * **1389**  &nbsp; &nbsp;   &nbsp; Create Target Array in the Given Order
-* **1431**	&nbsp; &nbsp;   &nbsp; &nbsp;Kids With the Greatest Number of Candies  
+* **1431**	&nbsp; &nbsp;   &nbsp; &nbsp;Kids With the Greatest Number of Candies
+* **1450**	&nbsp; &nbsp;   &nbsp; &nbsp;Number of Students Doing Homework at a Given Time
 * **1464**	&nbsp; &nbsp;   &nbsp; &nbsp;Maximum Product of Two Elements in an Array
 * **1470**	&nbsp; &nbsp;   &nbsp; &nbsp;Shuffle the Array
 * **1480**	&nbsp; &nbsp;   &nbsp; &nbsp;Running Sum of 1d Array

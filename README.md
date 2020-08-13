@@ -32,7 +32,8 @@
 * **1309**	&nbsp; &nbsp;   &nbsp; Decrypt String from Alphabet to Integer Mapping
 * **1313**	&nbsp; &nbsp;   &nbsp; Decompress Run-Length Encoded List
 * **1323**	&nbsp; &nbsp;   &nbsp; Maximum 69 Number
-* **1342**	&nbsp; &nbsp;   &nbsp; Number of Steps to Reduce a Number to Zero  	
+* **1342**	&nbsp; &nbsp;   &nbsp; Number of Steps to Reduce a Number to Zero
+* **1351**	&nbsp; &nbsp;   &nbsp; Count Negative Numbers in a Sorted Matrix 	
 * **1365**  &nbsp; &nbsp;   &nbsp; How Many Numbers Are Smaller Than the Current Number
 * **1389**  &nbsp; &nbsp;   &nbsp; Create Target Array in the Given Order
 * **1431**	&nbsp; &nbsp;   &nbsp; &nbsp;Kids With the Greatest Number of Candies

@@ -19,9 +19,20 @@ Output: "nihao"
 
 
 var restoreString = function(s, indices) {
+    //A Version
+    
     let result = []
     for(let i = 0; i < s.length; i++){
         result[indices[i]] = s[i]
     }
     return result.join('')
+
+    //B Version
+
+    let result = '';
+    for (let i = 0; i < indices.length; i++) {
+        result += s[indices.indexOf(i)]
+    }
+
+    return result;
 };

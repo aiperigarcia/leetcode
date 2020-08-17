@@ -20,7 +20,8 @@
 * **344**	  &nbsp; &nbsp; &nbsp; &nbsp; Reverse String   		    			
 * **665**	  &nbsp; &nbsp; &nbsp; &nbsp; Non-decreasing Array  
 * **709**	  &nbsp; &nbsp; &nbsp; &nbsp; To Lower Case   		  		 		
-* **771**	  &nbsp; &nbsp; &nbsp; &nbsp; Jewels and Stones    		
+* **771**	  &nbsp; &nbsp; &nbsp; &nbsp; Jewels and Stones    
+* **938**	  &nbsp; &nbsp; &nbsp; &nbsp;  Range Sum of BST		
 * **1021**	&nbsp; &nbsp;   &nbsp; Remove Outermost Parentheses	  			
 * **1108**	&nbsp; &nbsp;   &nbsp; Defanging an IP Address
 * **1221**  &nbsp; &nbsp;   &nbsp; Split a String in Balanced Strings

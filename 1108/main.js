@@ -6,3 +6,11 @@ var defangIPaddr = function(address) {
   let newAddress = address.split('.').join('[.]')
    return newAddress;
 };
+
+
+//Version B
+/*
+var defangIPaddr = function(address) {
+    return address.replace(/[.]/g,'[.]')
+};
+*/

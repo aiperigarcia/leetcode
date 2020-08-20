@@ -29,3 +29,11 @@ var findNumbers = function(nums) {
     }
     return numberOfEvens;
 };
+
+
+//Version // BUG:
+/*
+var findNumbers = function(nums) {
+    return nums.filter(num => `${num}`.length % 2 === 0).length;
+};
+*/

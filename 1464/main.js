@@ -19,12 +19,12 @@ Input: nums = [3,7]
 Output: 12
 */
 
-// var maxProduct = function(nums) {
-//     nums.sort((a, b) => b - a);
-//     return (nums[0] - 1) * (nums[1] - 1);
-// };
-
 var maxProduct = function(nums) {
-    nums.sort((a, b)=> b - a);
-    return (nums.shift() - 1) * (nums.shift() - 1);
+    nums.sort((a, b) => b - a);
+    return (nums[0] - 1) * (nums[1] - 1);
 };
+
+// var maxProduct = function(nums) {
+//     nums.sort((a, b)=> b - a);
+//     return (nums.shift() - 1) * (nums.shift() - 1);
+// };

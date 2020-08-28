@@ -2,8 +2,6 @@
 
 ## Solutions are in JS.
 
-### Easy Level
-
 * **1**	    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;Two Sum
 * **7**	    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;Reverse Integer
 * **26**	  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Remove Duplicates from Sorted Array

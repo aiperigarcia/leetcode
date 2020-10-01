@@ -49,5 +49,3 @@
 * **1512**	&nbsp; &nbsp;   &nbsp; &nbsp;Number of Good Pairs
 * **1528**	&nbsp; &nbsp;   &nbsp; &nbsp;Shuffle String
 * **1534**	&nbsp; &nbsp;   &nbsp; &nbsp;Count Good Triplets    
-
-##
